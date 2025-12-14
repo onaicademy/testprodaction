@@ -1,0 +1,13 @@
+﻿{
+  "name": "traffic-control-dashboard",
+  "version": "1.0.0",
+  "description": "Traffic Control & CRM Analytics Dashboard",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite --port 5020",
+    "build": "vite build"
+  },
+  "keywords": ["traffic-control", "crm", "analytics"],
+  "author": "",
+  "license": "MIT"
+}
